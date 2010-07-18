@@ -1,0 +1,8 @@
+protected/runtime/application.log
+.svn/
+**/.svn/
+.yii
+**/.yii
+**/*~
+assets/*
+protected/runtime/*

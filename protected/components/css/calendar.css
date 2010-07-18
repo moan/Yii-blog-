@@ -1,0 +1,45 @@
+/**
+ * CSS styles for Calendar
+ */
+ul.Calendar
+{
+	font-size:11px;
+	border:0;
+	line-height:150%;
+	display:inline;
+}
+
+ul.Calendar li
+{
+	display:inline;
+}
+
+ul.Calendar a:link,
+ul.Calendar a:visited
+{
+	border:solid 1px #9aafe5;
+	color:#0e509e;
+	padding:1px 3px;
+	text-decoration:none;
+}
+
+ul.Calendar .page a
+{
+	font-weight:normal;
+}
+
+ul.Calendar a:hover
+{
+	border:solid 1px #0e509e;
+}
+
+ul.Calendar td
+{
+	text-align: center;
+}
+
+ul.Calendar #today
+{
+	color:#990000;
+	font-weight: bold;
+}
